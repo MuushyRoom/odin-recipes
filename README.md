@@ -1,2 +1,3 @@
 # RecipeWebsite_HTML
-Simple Recipe Website for TheOdinProject
+Simple Recipe Website for "TheOdinProject"
+"Hello Odin!"
