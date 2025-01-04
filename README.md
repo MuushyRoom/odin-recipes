@@ -1,3 +1,3 @@
-# RecipeWebsite_HTML
+# odin-recipes
 Simple Recipe Website for "TheOdinProject"
 "Hello Odin!"
